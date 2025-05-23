@@ -22,21 +22,6 @@ this simulation models the behavior of the rbmk-1000 reactor, focusing on:
 - safety and cooling systems
 - radiation levels and radioactive material release
 
-### simulation features:
-- real-time reactor parameter visualization
-- temperature, pressure, and power graphs
-- safety system failure simulation
-- radiation level calculations
-- containment integrity monitoring
-
-## installation
-
-1. ensure python 3.6+ is installed
-2. install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## usage
 
 run the simulation:
@@ -58,12 +43,4 @@ python reactor_simulation.py
 - safety system status
 - nuclear poison levels
 
-## important notes
-
-this simulation is a simplified model and does not cover all aspects of nuclear reactor physics. its main purpose is to demonstrate basic reactor operation principles and factors contributing to the chernobyl accident.
-
-## references
-
-- iaea report on the chernobyl accident
-- rbmk reactor technical documentation
-- nuclear safety studies 
+ 
