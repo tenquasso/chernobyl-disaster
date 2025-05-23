@@ -1,6 +1,6 @@
 # chernobyl nuclear reactor simulation
 
-![chernobyl location](lap.jpg)
+![chernobyl nuclear power plant](https://raw.githubusercontent.com/tenquasso/chernobyl-disaster/main/lab.jpg)
 
 ## the chernobyl disaster
 
